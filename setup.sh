@@ -4,7 +4,7 @@ source venv/bin/activate
 
 pip install jupyter pyspark matplotlib pandas
 
-git clone git@github.com:dartov/tpch-dbgen.git
+git clone https://github.com/dartov/tpch-dbgen.git
 
 cd tpch-dbgen
 
